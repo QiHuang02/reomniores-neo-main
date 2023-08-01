@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " # ",
+    "#I#",
+    " # "
+  ],
+  "result": {
+    "item": "reomniores:copper_gear"
+  },
+  "key": {
+    "I": {
+      "tag": "forge:nuggets/iron"
+    },
+    "#": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

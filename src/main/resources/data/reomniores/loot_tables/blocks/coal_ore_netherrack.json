@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "conditions": [
+                {
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  },
+                  "condition": "minecraft:match_tool"
+                }
+              ],
+              "type": "minecraft:item",
+              "name": "reomniores:coal_ore_stone"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:coal",
+              "functions": [
+                {
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "max": 1,
+                    "min": 1
+                  },
+                  "add": false,
+                  "function": "minecraft:set_count"
+                },
+                {
+                  "enchantment": "minecraft:fortune",
+                  "function": "minecraft:apply_bonus",
+                  "formula": "minecraft:ore_drops"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "all": "reomniores:block/iridium_block"
+  },
+  "parent": "minecraft:block/cube_all"
+}

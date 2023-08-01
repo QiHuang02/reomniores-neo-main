@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:iridium_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/iridium"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

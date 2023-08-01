@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/tin"
+    }
+  },
+  "result": {
+    "item": "reomniores:tin_ingot"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "all": "reomniores:block/sapphire_block"
+  },
+  "parent": "minecraft:block/cube_all"
+}

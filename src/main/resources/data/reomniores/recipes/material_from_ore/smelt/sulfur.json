@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:ores/sulfur"
+  },
+  "result": "reomniores:sulfur_gem",
+  "cookingtime": 200,
+  "experience": 0.7
+}

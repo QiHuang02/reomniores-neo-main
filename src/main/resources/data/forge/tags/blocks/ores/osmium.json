@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:osmium_ore_andesite",
+    "reomniores:osmium_ore_basalt",
+    "reomniores:osmium_ore_blackstone",
+    "reomniores:osmium_ore_calcite",
+    "reomniores:osmium_ore_deepslate",
+    "reomniores:osmium_ore_diorite",
+    "reomniores:osmium_ore_end_stone",
+    "reomniores:osmium_ore_granite",
+    "reomniores:osmium_ore_netherrack",
+    "reomniores:osmium_ore_stone",
+    "reomniores:osmium_ore_tuff",
+    "reomniores:osmium_ore_create_limestone",
+    "reomniores:osmium_ore_create_scoria",
+    "reomniores:osmium_ore_create_scorchia",
+    "reomniores:osmium_ore_quark_jasper",
+    "reomniores:osmium_ore_quark_limestone",
+    "reomniores:osmium_ore_quark_shale"
+  ],
+  "raplace": false
+}

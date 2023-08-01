@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/bronze"
+    }
+  },
+  "result": {
+    "item": "reomniores:bronze_ingot"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shaped"
+}

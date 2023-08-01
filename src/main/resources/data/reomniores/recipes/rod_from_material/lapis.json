@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:lapis_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:gems/lapis"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

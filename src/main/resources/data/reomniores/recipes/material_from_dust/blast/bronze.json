@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:bronze_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/bronze"
+  },
+  "experience": 0.7
+}

@@ -1,0 +1,17 @@
+{
+  "group": "reomniores",
+  "result": {
+    "item": "reomniores:bronze_block"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/bronze"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

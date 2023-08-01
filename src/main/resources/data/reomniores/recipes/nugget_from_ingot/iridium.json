@@ -1,0 +1,13 @@
+{
+  "result": {
+    "count": 9,
+    "item": "reomniores:iridium_nugget"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iridium"
+    }
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shapeless"
+}

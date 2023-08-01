@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/sapphire"
+  },
+  "result": "reomniores:sapphire_gem",
+  "cookingtime": 100,
+  "experience": 0.7
+}

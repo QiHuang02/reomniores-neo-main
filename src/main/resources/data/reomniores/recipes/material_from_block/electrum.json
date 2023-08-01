@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:electrum_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/electrum"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

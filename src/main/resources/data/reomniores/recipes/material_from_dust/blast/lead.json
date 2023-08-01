@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:lead_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/lead"
+  },
+  "experience": 0.7
+}

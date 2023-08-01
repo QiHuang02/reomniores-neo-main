@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "reomniores:item/signalum_plate"
+  },
+  "parent": "minecraft:item/generated"
+}

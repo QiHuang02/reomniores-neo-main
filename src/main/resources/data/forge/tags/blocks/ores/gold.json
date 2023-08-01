@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:gold_ore_andesite",
+    "reomniores:gold_ore_basalt",
+    "reomniores:gold_ore_blackstone",
+    "reomniores:gold_ore_calcite",
+    "reomniores:gold_ore_deepslate",
+    "reomniores:gold_ore_diorite",
+    "reomniores:gold_ore_end_stone",
+    "reomniores:gold_ore_granite",
+    "reomniores:gold_ore_netherrack",
+    "reomniores:gold_ore_stone",
+    "reomniores:gold_ore_tuff",
+    "reomniores:gold_ore_create_limestone",
+    "reomniores:gold_ore_create_scoria",
+    "reomniores:gold_ore_create_scorchia",
+    "reomniores:gold_ore_quark_jasper",
+    "reomniores:gold_ore_quark_limestone",
+    "reomniores:gold_ore_quark_shale"
+  ],
+  "raplace": false
+}

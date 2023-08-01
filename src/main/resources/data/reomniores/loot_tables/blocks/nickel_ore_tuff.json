@@ -1,0 +1,58 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "reomniores:nickel_ore_stone",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "levels": {
+                          "min": 1
+                        },
+                        "enchantment": "minecraft:silk_touch"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "functions": [
+                {
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "max": 1,
+                    "min": 1
+                  },
+                  "function": "minecraft:set_count",
+                  "add": false
+                },
+                {
+                  "formula": "minecraft:ore_drops",
+                  "function": "minecraft:apply_bonus",
+                  "enchantment": "minecraft:fortune"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "type": "minecraft:item",
+              "name": "reomniores:raw_nickel"
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:block"
+}

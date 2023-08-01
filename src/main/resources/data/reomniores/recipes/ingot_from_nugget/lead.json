@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/lead"
+    }
+  },
+  "result": {
+    "item": "reomniores:lead_ingot"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shaped"
+}

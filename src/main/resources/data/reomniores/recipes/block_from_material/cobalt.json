@@ -1,0 +1,17 @@
+{
+  "group": "reomniores",
+  "result": {
+    "item": "reomniores:cobalt_block"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/cobalt"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

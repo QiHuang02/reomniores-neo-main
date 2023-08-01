@@ -1,0 +1,17 @@
+{
+  "group": "reomniores",
+  "result": {
+    "item": "reomniores:constantan_block"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/constantan"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

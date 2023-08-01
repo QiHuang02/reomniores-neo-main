@@ -1,0 +1,17 @@
+{
+  "group": "reomniores",
+  "result": {
+    "item": "reomniores:ruby_block"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/ruby"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

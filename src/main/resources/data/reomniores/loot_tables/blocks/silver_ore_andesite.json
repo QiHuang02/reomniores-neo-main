@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "conditions": [
+                {
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  },
+                  "condition": "minecraft:match_tool"
+                }
+              ],
+              "name": "reomniores:silver_ore_stone",
+              "type": "minecraft:item"
+            },
+            {
+              "name": "reomniores:raw_silver",
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "count": {
+                    "min": 1,
+                    "max": 1,
+                    "type": "minecraft:uniform"
+                  },
+                  "add": false,
+                  "function": "minecraft:set_count"
+                },
+                {
+                  "enchantment": "minecraft:fortune",
+                  "function": "minecraft:apply_bonus",
+                  "formula": "minecraft:ore_drops"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

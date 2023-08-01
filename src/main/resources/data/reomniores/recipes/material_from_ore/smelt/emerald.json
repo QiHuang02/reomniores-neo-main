@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:ores/emerald"
+  },
+  "result": "minecraft:emerald",
+  "cookingtime": 200,
+  "experience": 0.7
+}

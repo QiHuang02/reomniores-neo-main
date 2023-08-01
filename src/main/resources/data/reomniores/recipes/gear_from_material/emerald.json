@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " # ",
+    "#I#",
+    " # "
+  ],
+  "result": {
+    "item": "reomniores:emerald_gear"
+  },
+  "key": {
+    "I": {
+      "tag": "forge:nuggets/iron"
+    },
+    "#": {
+      "tag": "forge:gems/emerald"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/steel"
+    }
+  },
+  "result": {
+    "item": "reomniores:steel_ingot"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shaped"
+}

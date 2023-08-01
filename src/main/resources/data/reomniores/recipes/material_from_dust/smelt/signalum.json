@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:signalum_ingot",
+  "cookingtime": 200,
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:dusts/signalum"
+  },
+  "experience": 0.7
+}

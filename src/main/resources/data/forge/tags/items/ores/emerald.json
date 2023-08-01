@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:emerald_ore_andesite",
+    "reomniores:emerald_ore_basalt",
+    "reomniores:emerald_ore_blackstone",
+    "reomniores:emerald_ore_calcite",
+    "reomniores:emerald_ore_deepslate",
+    "reomniores:emerald_ore_diorite",
+    "reomniores:emerald_ore_end_stone",
+    "reomniores:emerald_ore_granite",
+    "reomniores:emerald_ore_netherrack",
+    "reomniores:emerald_ore_stone",
+    "reomniores:emerald_ore_tuff",
+    "reomniores:emerald_ore_create_limestone",
+    "reomniores:emerald_ore_create_scoria",
+    "reomniores:emerald_ore_create_scorchia",
+    "reomniores:emerald_ore_quark_jasper",
+    "reomniores:emerald_ore_quark_limestone",
+    "reomniores:emerald_ore_quark_shale"
+  ],
+  "raplace": false
+}

@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:sapphire_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:gems/sapphire"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

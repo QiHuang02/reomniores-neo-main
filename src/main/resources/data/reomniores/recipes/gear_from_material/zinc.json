@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " # ",
+    "#I#",
+    " # "
+  ],
+  "result": {
+    "item": "reomniores:zinc_gear"
+  },
+  "key": {
+    "I": {
+      "tag": "forge:nuggets/iron"
+    },
+    "#": {
+      "tag": "forge:ingots/zinc"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:lead_ore_andesite",
+    "reomniores:lead_ore_basalt",
+    "reomniores:lead_ore_blackstone",
+    "reomniores:lead_ore_calcite",
+    "reomniores:lead_ore_deepslate",
+    "reomniores:lead_ore_diorite",
+    "reomniores:lead_ore_end_stone",
+    "reomniores:lead_ore_granite",
+    "reomniores:lead_ore_netherrack",
+    "reomniores:lead_ore_stone",
+    "reomniores:lead_ore_tuff",
+    "reomniores:lead_ore_create_limestone",
+    "reomniores:lead_ore_create_scoria",
+    "reomniores:lead_ore_create_scorchia",
+    "reomniores:lead_ore_quark_jasper",
+    "reomniores:lead_ore_quark_limestone",
+    "reomniores:lead_ore_quark_shale"
+  ],
+  "raplace": false
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reomniores:block/cobalt_ore_stone"
+  }
+}

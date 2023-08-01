@@ -1,0 +1,58 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "conditions": [
+                {
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  },
+                  "condition": "minecraft:match_tool"
+                }
+              ],
+              "type": "minecraft:item",
+              "name": "reomniores:tin_ore_stone"
+            },
+            {
+              "functions": [
+                {
+                  "add": false,
+                  "count": {
+                    "max": 1,
+                    "type": "minecraft:uniform",
+                    "min": 1
+                  },
+                  "function": "minecraft:set_count"
+                },
+                {
+                  "formula": "minecraft:ore_drops",
+                  "enchantment": "minecraft:fortune",
+                  "function": "minecraft:apply_bonus"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "type": "minecraft:item",
+              "name": "reomniores:raw_tin"
+            }
+          ]
+        }
+      ],
+      "bonus_rolls": 0.0,
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:block"
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/brass"
+    }
+  },
+  "result": {
+    "item": "reomniores:brass_ingot"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shaped"
+}

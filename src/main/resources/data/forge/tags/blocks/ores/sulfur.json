@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:sulfur_ore_andesite",
+    "reomniores:sulfur_ore_basalt",
+    "reomniores:sulfur_ore_blackstone",
+    "reomniores:sulfur_ore_calcite",
+    "reomniores:sulfur_ore_deepslate",
+    "reomniores:sulfur_ore_diorite",
+    "reomniores:sulfur_ore_end_stone",
+    "reomniores:sulfur_ore_granite",
+    "reomniores:sulfur_ore_netherrack",
+    "reomniores:sulfur_ore_stone",
+    "reomniores:sulfur_ore_tuff",
+    "reomniores:sulfur_ore_create_limestone",
+    "reomniores:sulfur_ore_create_scoria",
+    "reomniores:sulfur_ore_create_scorchia",
+    "reomniores:sulfur_ore_quark_jasper",
+    "reomniores:sulfur_ore_quark_limestone",
+    "reomniores:sulfur_ore_quark_shale"
+  ],
+  "raplace": false
+}

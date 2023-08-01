@@ -1,0 +1,17 @@
+{
+  "group": "reomniores",
+  "result": {
+    "item": "reomniores:invar_block"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/invar"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

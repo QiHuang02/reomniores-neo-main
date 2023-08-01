@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:silver_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:ingots/silver"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

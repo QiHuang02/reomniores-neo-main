@@ -1,0 +1,26 @@
+{
+  "values": [
+    "reomniores:tin_nugget",
+    "reomniores:lead_nugget",
+    "reomniores:nickel_nugget",
+    "reomniores:zinc_nugget",
+    "reomniores:aluminum_nugget",
+    "reomniores:silver_nugget",
+    "reomniores:cobalt_nugget",
+    "reomniores:osmium_nugget",
+    "reomniores:iridium_nugget",
+    "reomniores:uranium_nugget",
+    "reomniores:bronze_nugget",
+    "reomniores:brass_nugget",
+    "reomniores:steel_nugget",
+    "reomniores:electrum_nugget",
+    "reomniores:invar_nugget",
+    "reomniores:constantan_nugget",
+    "reomniores:signalum_nugget",
+    "reomniores:lumium_nugget",
+    "reomniores:enderium_nugget",
+    "reomniores:copper_nugget",
+    "reomniores:netherite_nugget"
+  ],
+  "replace": false
+}

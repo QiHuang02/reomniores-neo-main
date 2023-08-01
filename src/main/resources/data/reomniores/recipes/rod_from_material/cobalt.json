@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:cobalt_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:ingots/cobalt"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

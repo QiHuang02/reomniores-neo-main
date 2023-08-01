@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:constantan_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:ingots/constantan"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

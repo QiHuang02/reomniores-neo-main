@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:lumium_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:ingots/lumium"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " # ",
+    "#I#",
+    " # "
+  ],
+  "result": {
+    "item": "reomniores:netherite_gear"
+  },
+  "key": {
+    "I": {
+      "tag": "forge:nuggets/iron"
+    },
+    "#": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

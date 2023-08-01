@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:steel_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/steel"
+  },
+  "experience": 0.7
+}

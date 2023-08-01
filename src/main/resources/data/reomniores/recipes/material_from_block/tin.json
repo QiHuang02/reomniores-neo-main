@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:tin_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/tin"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

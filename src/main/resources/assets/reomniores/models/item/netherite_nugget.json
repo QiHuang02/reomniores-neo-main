@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "reomniores:item/netherite_nugget"
+  },
+  "parent": "minecraft:item/generated"
+}

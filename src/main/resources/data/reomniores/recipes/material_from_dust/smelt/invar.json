@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:invar_ingot",
+  "cookingtime": 200,
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:dusts/invar"
+  },
+  "experience": 0.7
+}

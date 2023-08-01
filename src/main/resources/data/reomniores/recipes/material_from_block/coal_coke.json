@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:coal_coke_gem"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/coal_coke"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

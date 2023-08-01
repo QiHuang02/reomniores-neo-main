@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:emerald_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:gems/emerald"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,15 @@
+{
+  "values": [
+    "reomniores:ruby_gem",
+    "reomniores:sapphire_gem",
+    "reomniores:coal_gem",
+    "reomniores:sulfur_gem",
+    "reomniores:coal_coke_gem",
+    "reomniores:cinnabar_gem",
+    "reomniores:potassium_nitrate_gem",
+    "reomniores:fluorite_gem",
+    "reomniores:apatite_gem",
+    "reomniores:silicon"
+  ],
+  "replace": false
+}

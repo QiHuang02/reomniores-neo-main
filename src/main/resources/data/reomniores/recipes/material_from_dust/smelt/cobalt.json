@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:cobalt_ingot",
+  "cookingtime": 200,
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:dusts/cobalt"
+  },
+  "experience": 0.7
+}

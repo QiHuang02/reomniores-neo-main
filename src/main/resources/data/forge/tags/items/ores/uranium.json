@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:uranium_ore_andesite",
+    "reomniores:uranium_ore_basalt",
+    "reomniores:uranium_ore_blackstone",
+    "reomniores:uranium_ore_calcite",
+    "reomniores:uranium_ore_deepslate",
+    "reomniores:uranium_ore_diorite",
+    "reomniores:uranium_ore_end_stone",
+    "reomniores:uranium_ore_granite",
+    "reomniores:uranium_ore_netherrack",
+    "reomniores:uranium_ore_stone",
+    "reomniores:uranium_ore_tuff",
+    "reomniores:uranium_ore_create_limestone",
+    "reomniores:uranium_ore_create_scoria",
+    "reomniores:uranium_ore_create_scorchia",
+    "reomniores:uranium_ore_quark_jasper",
+    "reomniores:uranium_ore_quark_limestone",
+    "reomniores:uranium_ore_quark_shale"
+  ],
+  "raplace": false
+}

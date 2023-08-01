@@ -1,0 +1,15 @@
+{
+  "values": [
+    "reomniores:raw_tin",
+    "reomniores:raw_lead",
+    "reomniores:raw_nickel",
+    "reomniores:raw_zinc",
+    "reomniores:raw_aluminum",
+    "reomniores:raw_silver",
+    "reomniores:raw_cobalt",
+    "reomniores:raw_osmium",
+    "reomniores:raw_iridium",
+    "reomniores:raw_uranium"
+  ],
+  "replace": false
+}

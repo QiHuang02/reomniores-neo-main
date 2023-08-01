@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reomniores:block/iron_ore_create_scoria"
+  }
+}

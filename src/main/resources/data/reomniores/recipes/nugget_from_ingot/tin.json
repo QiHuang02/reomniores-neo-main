@@ -1,0 +1,13 @@
+{
+  "result": {
+    "count": 9,
+    "item": "reomniores:tin_nugget"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:ingots/tin"
+    }
+  ],
+  "group": "reomniores",
+  "type": "minecraft:crafting_shapeless"
+}

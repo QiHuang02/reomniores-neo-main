@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reomniores:block/potassium_nitrate_ore_create_scoria"
+  }
+}

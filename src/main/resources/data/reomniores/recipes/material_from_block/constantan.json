@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:constantan_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/constantan"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

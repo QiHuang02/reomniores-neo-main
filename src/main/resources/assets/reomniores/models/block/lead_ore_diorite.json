@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reomniores:block/lead_ore_diorite"
+  }
+}

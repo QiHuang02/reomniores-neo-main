@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "reomniores:quartz_rod",
+    "count": 2
+  },
+  "key": {
+    "#": {
+      "tag": "forge:gems/quartz"
+    }
+  },
+  "type": "minecraft:crafting_shaped"
+}

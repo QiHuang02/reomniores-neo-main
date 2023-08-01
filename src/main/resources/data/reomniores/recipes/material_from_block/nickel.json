@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:nickel_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/nickel"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

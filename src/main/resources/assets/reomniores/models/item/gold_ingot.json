@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "reomniores:item/gold_ingot"
+  },
+  "parent": "minecraft:item/generated"
+}

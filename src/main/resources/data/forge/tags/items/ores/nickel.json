@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:nickel_ore_andesite",
+    "reomniores:nickel_ore_basalt",
+    "reomniores:nickel_ore_blackstone",
+    "reomniores:nickel_ore_calcite",
+    "reomniores:nickel_ore_deepslate",
+    "reomniores:nickel_ore_diorite",
+    "reomniores:nickel_ore_end_stone",
+    "reomniores:nickel_ore_granite",
+    "reomniores:nickel_ore_netherrack",
+    "reomniores:nickel_ore_stone",
+    "reomniores:nickel_ore_tuff",
+    "reomniores:nickel_ore_create_limestone",
+    "reomniores:nickel_ore_create_scoria",
+    "reomniores:nickel_ore_create_scorchia",
+    "reomniores:nickel_ore_quark_jasper",
+    "reomniores:nickel_ore_quark_limestone",
+    "reomniores:nickel_ore_quark_shale"
+  ],
+  "raplace": false
+}

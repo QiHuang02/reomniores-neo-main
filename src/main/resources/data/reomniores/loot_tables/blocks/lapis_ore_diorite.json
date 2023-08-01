@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "levels": {
+                          "min": 1
+                        },
+                        "enchantment": "minecraft:silk_touch"
+                      }
+                    ]
+                  },
+                  "condition": "minecraft:match_tool"
+                }
+              ],
+              "name": "reomniores:lapis_ore_stone"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "max": 8,
+                    "min": 4
+                  },
+                  "add": false
+                },
+                {
+                  "formula": "minecraft:ore_drops",
+                  "function": "minecraft:apply_bonus",
+                  "enchantment": "minecraft:fortune"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "name": "minecraft:lapis_lazuli"
+            }
+          ]
+        }
+      ],
+      "bonus_rolls": 0.0
+    }
+  ]
+}

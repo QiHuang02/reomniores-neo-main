@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:coal_ore_andesite",
+    "reomniores:coal_ore_basalt",
+    "reomniores:coal_ore_blackstone",
+    "reomniores:coal_ore_calcite",
+    "reomniores:coal_ore_deepslate",
+    "reomniores:coal_ore_diorite",
+    "reomniores:coal_ore_end_stone",
+    "reomniores:coal_ore_granite",
+    "reomniores:coal_ore_netherrack",
+    "reomniores:coal_ore_stone",
+    "reomniores:coal_ore_tuff",
+    "reomniores:coal_ore_create_limestone",
+    "reomniores:coal_ore_create_scoria",
+    "reomniores:coal_ore_create_scorchia",
+    "reomniores:coal_ore_quark_jasper",
+    "reomniores:coal_ore_quark_limestone",
+    "reomniores:coal_ore_quark_shale"
+  ],
+  "raplace": false
+}

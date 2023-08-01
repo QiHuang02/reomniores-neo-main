@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:brass_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/brass"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

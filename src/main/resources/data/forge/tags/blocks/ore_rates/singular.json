@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "reomniores:iron_ore_deepslate",
+    "reomniores:coal_ore_deepslate",
+    "reomniores:gold_ore_deepslate",
+    "reomniores:copper_ore_deepslate",
+    "reomniores:silver_ore_deepslate",
+    "reomniores:redstone_ore_deepslate",
+    "reomniores:diamond_ore_deepslate",
+    "reomniores:lapis_ore_deepslate",
+    "reomniores:emerald_ore_deepslate",
+    "reomniores:quartz_ore_deepslate",
+    "reomniores:tin_ore_deepslate",
+    "reomniores:lead_ore_deepslate",
+    "reomniores:nickel_ore_deepslate",
+    "reomniores:zinc_ore_deepslate",
+    "reomniores:aluminum_ore_deepslate",
+    "reomniores:cobalt_ore_deepslate",
+    "reomniores:osmium_ore_deepslate",
+    "reomniores:iridium_ore_deepslate",
+    "reomniores:uranium_ore_deepslate",
+    "reomniores:ruby_ore_deepslate",
+    "reomniores:sapphire_ore_deepslate",
+    "reomniores:sulfur_ore_deepslate",
+    "reomniores:cinnabar_ore_deepslate",
+    "reomniores:potassium_nitrate_ore_deepslate",
+    "reomniores:apatite_ore_deepslate",
+    "reomniores:fluorite_ore_deepslate"
+  ]
+}

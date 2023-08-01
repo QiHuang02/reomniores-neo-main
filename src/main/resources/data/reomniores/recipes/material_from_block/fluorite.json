@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:fluorite_gem"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/fluorite"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

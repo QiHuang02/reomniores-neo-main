@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:redstone_ore_andesite",
+    "reomniores:redstone_ore_basalt",
+    "reomniores:redstone_ore_blackstone",
+    "reomniores:redstone_ore_calcite",
+    "reomniores:redstone_ore_deepslate",
+    "reomniores:redstone_ore_diorite",
+    "reomniores:redstone_ore_end_stone",
+    "reomniores:redstone_ore_granite",
+    "reomniores:redstone_ore_netherrack",
+    "reomniores:redstone_ore_stone",
+    "reomniores:redstone_ore_tuff",
+    "reomniores:redstone_ore_create_limestone",
+    "reomniores:redstone_ore_create_scoria",
+    "reomniores:redstone_ore_create_scorchia",
+    "reomniores:redstone_ore_quark_jasper",
+    "reomniores:redstone_ore_quark_limestone",
+    "reomniores:redstone_ore_quark_shale"
+  ],
+  "raplace": false
+}

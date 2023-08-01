@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:cinnabar_ore_andesite",
+    "reomniores:cinnabar_ore_basalt",
+    "reomniores:cinnabar_ore_blackstone",
+    "reomniores:cinnabar_ore_calcite",
+    "reomniores:cinnabar_ore_deepslate",
+    "reomniores:cinnabar_ore_diorite",
+    "reomniores:cinnabar_ore_end_stone",
+    "reomniores:cinnabar_ore_granite",
+    "reomniores:cinnabar_ore_netherrack",
+    "reomniores:cinnabar_ore_stone",
+    "reomniores:cinnabar_ore_tuff",
+    "reomniores:cinnabar_ore_create_limestone",
+    "reomniores:cinnabar_ore_create_scoria",
+    "reomniores:cinnabar_ore_create_scorchia",
+    "reomniores:cinnabar_ore_quark_jasper",
+    "reomniores:cinnabar_ore_quark_limestone",
+    "reomniores:cinnabar_ore_quark_shale"
+  ],
+  "raplace": false
+}

@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:uranium_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/uranium"
+  },
+  "experience": 0.7
+}

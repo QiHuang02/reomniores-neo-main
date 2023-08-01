@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reomniores:block/apatite_ore_quark_jasper"
+  }
+}

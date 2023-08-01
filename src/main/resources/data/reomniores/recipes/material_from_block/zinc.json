@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:zinc_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/zinc"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

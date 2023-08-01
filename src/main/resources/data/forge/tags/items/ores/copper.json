@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:copper_ore_andesite",
+    "reomniores:copper_ore_basalt",
+    "reomniores:copper_ore_blackstone",
+    "reomniores:copper_ore_calcite",
+    "reomniores:copper_ore_deepslate",
+    "reomniores:copper_ore_diorite",
+    "reomniores:copper_ore_end_stone",
+    "reomniores:copper_ore_granite",
+    "reomniores:copper_ore_netherrack",
+    "reomniores:copper_ore_stone",
+    "reomniores:copper_ore_tuff",
+    "reomniores:copper_ore_create_limestone",
+    "reomniores:copper_ore_create_scoria",
+    "reomniores:copper_ore_create_scorchia",
+    "reomniores:copper_ore_quark_jasper",
+    "reomniores:copper_ore_quark_limestone",
+    "reomniores:copper_ore_quark_shale"
+  ],
+  "raplace": false
+}

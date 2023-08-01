@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "all": "reomniores:block/diamond_block"
+  },
+  "parent": "minecraft:block/cube_all"
+}

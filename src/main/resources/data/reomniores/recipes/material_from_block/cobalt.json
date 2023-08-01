@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:cobalt_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/cobalt"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

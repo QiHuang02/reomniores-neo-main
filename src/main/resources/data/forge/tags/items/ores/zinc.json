@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:zinc_ore_andesite",
+    "reomniores:zinc_ore_basalt",
+    "reomniores:zinc_ore_blackstone",
+    "reomniores:zinc_ore_calcite",
+    "reomniores:zinc_ore_deepslate",
+    "reomniores:zinc_ore_diorite",
+    "reomniores:zinc_ore_end_stone",
+    "reomniores:zinc_ore_granite",
+    "reomniores:zinc_ore_netherrack",
+    "reomniores:zinc_ore_stone",
+    "reomniores:zinc_ore_tuff",
+    "reomniores:zinc_ore_create_limestone",
+    "reomniores:zinc_ore_create_scoria",
+    "reomniores:zinc_ore_create_scorchia",
+    "reomniores:zinc_ore_quark_jasper",
+    "reomniores:zinc_ore_quark_limestone",
+    "reomniores:zinc_ore_quark_shale"
+  ],
+  "raplace": false
+}

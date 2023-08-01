@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:cinnabar_gem"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/cinnabar"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

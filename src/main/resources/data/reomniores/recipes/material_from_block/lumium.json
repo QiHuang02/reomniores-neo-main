@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:lumium_ingot"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/lumium"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

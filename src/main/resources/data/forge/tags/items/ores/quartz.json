@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:quartz_ore_andesite",
+    "reomniores:quartz_ore_basalt",
+    "reomniores:quartz_ore_blackstone",
+    "reomniores:quartz_ore_calcite",
+    "reomniores:quartz_ore_deepslate",
+    "reomniores:quartz_ore_diorite",
+    "reomniores:quartz_ore_end_stone",
+    "reomniores:quartz_ore_granite",
+    "reomniores:quartz_ore_netherrack",
+    "reomniores:quartz_ore_stone",
+    "reomniores:quartz_ore_tuff",
+    "reomniores:quartz_ore_create_limestone",
+    "reomniores:quartz_ore_create_scoria",
+    "reomniores:quartz_ore_create_scorchia",
+    "reomniores:quartz_ore_quark_jasper",
+    "reomniores:quartz_ore_quark_limestone",
+    "reomniores:quartz_ore_quark_shale"
+  ],
+  "raplace": false
+}

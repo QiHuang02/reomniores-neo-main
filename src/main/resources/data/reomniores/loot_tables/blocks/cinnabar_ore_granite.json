@@ -1,0 +1,58 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "levels": {
+                          "min": 1
+                        },
+                        "enchantment": "minecraft:silk_touch"
+                      }
+                    ]
+                  },
+                  "condition": "minecraft:match_tool"
+                }
+              ],
+              "name": "reomniores:cinnabar_ore_stone"
+            },
+            {
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "type": "minecraft:uniform",
+                    "max": 1
+                  },
+                  "add": false
+                },
+                {
+                  "function": "minecraft:apply_bonus",
+                  "enchantment": "minecraft:fortune",
+                  "formula": "minecraft:ore_drops"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "type": "minecraft:item",
+              "name": "reomniores:cinnabar_gem"
+            }
+          ],
+          "type": "minecraft:alternatives"
+        }
+      ],
+      "bonus_rolls": 0.0,
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:block"
+}

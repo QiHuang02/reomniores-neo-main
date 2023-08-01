@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/potassium_nitrate"
+  },
+  "result": "reomniores:potassium_nitrate_gem",
+  "cookingtime": 100,
+  "experience": 0.7
+}

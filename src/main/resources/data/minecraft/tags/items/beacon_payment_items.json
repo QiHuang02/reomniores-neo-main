@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "reomniores:tin_ingot",
+    "reomniores:lead_ingot",
+    "reomniores:nickel_ingot",
+    "reomniores:zinc_ingot",
+    "reomniores:aluminum_ingot",
+    "reomniores:silver_ingot",
+    "reomniores:cobalt_ingot",
+    "reomniores:osmium_ingot",
+    "reomniores:iridium_ingot",
+    "reomniores:uranium_ingot",
+    "reomniores:bronze_ingot",
+    "reomniores:brass_ingot",
+    "reomniores:steel_ingot",
+    "reomniores:electrum_ingot",
+    "reomniores:invar_ingot",
+    "reomniores:constantan_ingot",
+    "reomniores:signalum_ingot",
+    "reomniores:lumium_ingot",
+    "reomniores:enderium_ingot",
+    "reomniores:ruby_gem",
+    "reomniores:sapphire_gem"
+  ]
+}

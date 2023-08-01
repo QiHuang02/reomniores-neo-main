@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "all": "reomniores:block/brass_block"
+  },
+  "parent": "minecraft:block/cube_all"
+}

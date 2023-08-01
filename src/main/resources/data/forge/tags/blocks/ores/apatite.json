@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:apatite_ore_andesite",
+    "reomniores:apatite_ore_basalt",
+    "reomniores:apatite_ore_blackstone",
+    "reomniores:apatite_ore_calcite",
+    "reomniores:apatite_ore_deepslate",
+    "reomniores:apatite_ore_diorite",
+    "reomniores:apatite_ore_end_stone",
+    "reomniores:apatite_ore_granite",
+    "reomniores:apatite_ore_netherrack",
+    "reomniores:apatite_ore_stone",
+    "reomniores:apatite_ore_tuff",
+    "reomniores:apatite_ore_create_limestone",
+    "reomniores:apatite_ore_create_scoria",
+    "reomniores:apatite_ore_create_scorchia",
+    "reomniores:apatite_ore_quark_jasper",
+    "reomniores:apatite_ore_quark_limestone",
+    "reomniores:apatite_ore_quark_shale"
+  ],
+  "raplace": false
+}

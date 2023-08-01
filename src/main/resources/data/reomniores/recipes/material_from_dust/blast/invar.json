@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:invar_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/invar"
+  },
+  "experience": 0.7
+}

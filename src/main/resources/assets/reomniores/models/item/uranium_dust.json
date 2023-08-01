@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "reomniores:item/uranium_dust"
+  },
+  "parent": "minecraft:item/generated"
+}

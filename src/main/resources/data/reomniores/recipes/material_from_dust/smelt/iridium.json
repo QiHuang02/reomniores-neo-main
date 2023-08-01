@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:iridium_ingot",
+  "cookingtime": 200,
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:dusts/iridium"
+  },
+  "experience": 0.7
+}

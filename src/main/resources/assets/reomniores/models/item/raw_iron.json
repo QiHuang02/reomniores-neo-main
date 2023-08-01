@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "reomniores:item/raw_iron"
+  },
+  "parent": "minecraft:item/generated"
+}

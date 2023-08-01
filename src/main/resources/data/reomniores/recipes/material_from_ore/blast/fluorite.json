@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/fluorite"
+  },
+  "result": "reomniores:fluorite_gem",
+  "cookingtime": 100,
+  "experience": 0.7
+}

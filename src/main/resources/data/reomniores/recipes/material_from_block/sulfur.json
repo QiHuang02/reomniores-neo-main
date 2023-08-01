@@ -1,0 +1,13 @@
+{
+  "group": "reomniores",
+  "result": {
+    "count": 9,
+    "item": "reomniores:sulfur_gem"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/sulfur"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

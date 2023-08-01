@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:sapphire_ore_andesite",
+    "reomniores:sapphire_ore_basalt",
+    "reomniores:sapphire_ore_blackstone",
+    "reomniores:sapphire_ore_calcite",
+    "reomniores:sapphire_ore_deepslate",
+    "reomniores:sapphire_ore_diorite",
+    "reomniores:sapphire_ore_end_stone",
+    "reomniores:sapphire_ore_granite",
+    "reomniores:sapphire_ore_netherrack",
+    "reomniores:sapphire_ore_stone",
+    "reomniores:sapphire_ore_tuff",
+    "reomniores:sapphire_ore_create_limestone",
+    "reomniores:sapphire_ore_create_scoria",
+    "reomniores:sapphire_ore_create_scorchia",
+    "reomniores:sapphire_ore_quark_jasper",
+    "reomniores:sapphire_ore_quark_limestone",
+    "reomniores:sapphire_ore_quark_shale"
+  ],
+  "raplace": false
+}

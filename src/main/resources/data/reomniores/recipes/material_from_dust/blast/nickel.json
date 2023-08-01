@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:nickel_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/nickel"
+  },
+  "experience": 0.7
+}

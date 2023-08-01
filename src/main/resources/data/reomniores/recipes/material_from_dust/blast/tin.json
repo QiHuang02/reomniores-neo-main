@@ -1,0 +1,9 @@
+{
+  "result": "reomniores:tin_ingot",
+  "cookingtime": 100,
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:dusts/tin"
+  },
+  "experience": 0.7
+}

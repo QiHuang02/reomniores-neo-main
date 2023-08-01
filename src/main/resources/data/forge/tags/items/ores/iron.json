@@ -1,0 +1,22 @@
+{
+  "values": [
+    "reomniores:iron_ore_andesite",
+    "reomniores:iron_ore_basalt",
+    "reomniores:iron_ore_blackstone",
+    "reomniores:iron_ore_calcite",
+    "reomniores:iron_ore_deepslate",
+    "reomniores:iron_ore_diorite",
+    "reomniores:iron_ore_end_stone",
+    "reomniores:iron_ore_granite",
+    "reomniores:iron_ore_netherrack",
+    "reomniores:iron_ore_stone",
+    "reomniores:iron_ore_tuff",
+    "reomniores:iron_ore_create_limestone",
+    "reomniores:iron_ore_create_scoria",
+    "reomniores:iron_ore_create_scorchia",
+    "reomniores:iron_ore_quark_jasper",
+    "reomniores:iron_ore_quark_limestone",
+    "reomniores:iron_ore_quark_shale"
+  ],
+  "raplace": false
+}
