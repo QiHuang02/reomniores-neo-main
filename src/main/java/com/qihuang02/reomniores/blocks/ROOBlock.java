@@ -1,6 +1,7 @@
 package com.qihuang02.reomniores.blocks;
 
 import com.qihuang02.reomniores.ReOmniOres;
+import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.SoundType;
@@ -16,15 +17,19 @@ public class ROOBlock {
     //STONE
     public static final BlockBehaviour.Properties OVERWORLD_ORES =
             BlockBehaviour.Properties.copy(Blocks.IRON_ORE).requiresCorrectToolForDrops().strength(3.0F, 3.0F).sound(SoundType.STONE);
+
     //DEEPSTONE
     public static final BlockBehaviour.Properties OVERWORLD_ORES_HARD =
             BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_IRON_ORE).requiresCorrectToolForDrops().strength(4.5F, 3.0F).sound(SoundType.DEEPSLATE);
+
     //NETHER_ORES
     public static final BlockBehaviour.Properties NETHER_ORES =
             BlockBehaviour.Properties.copy(Blocks.NETHERRACK).requiresCorrectToolForDrops().strength(3.0f, 3.0F).sound(SoundType.NETHER_ORE);
+
     //END_ORES
     public static final BlockBehaviour.Properties END_ORES =
             BlockBehaviour.Properties.copy(Blocks.END_STONE).requiresCorrectToolForDrops().strength(3.0F, 7.0F).sound(SoundType.STONE);
+
     //STORAGE_BLOCK
     public static final BlockBehaviour.Properties STORAGE_BLOCK =
             BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).requiresCorrectToolForDrops().strength(5.0F, 6.0F).sound(SoundType.METAL);
@@ -59,23 +64,23 @@ public class ROOBlock {
     public static final RegistryObject<Block> CHARCOAL_BLOCK = BLOCKS.register("charcoal_block", () -> new Block(STORAGE_BLOCK));
 
     //COAl
-    public static final RegistryObject<Block> COAL_ORE_ANDESITE = BLOCKS.register("coal_ore_andesite", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_CALCITE = BLOCKS.register("coal_ore_calcite", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_CREATE_LIMESTONE = BLOCKS.register("coal_ore_create_limestone", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_CREATE_SCORCHIA = BLOCKS.register("coal_ore_create_scorchia", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_CREATE_SCORIA = BLOCKS.register("coal_ore_create_scoria", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_DIORITE = BLOCKS.register("coal_ore_diorite", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_GRANITE = BLOCKS.register("coal_ore_granite", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_QUARK_JASPER = BLOCKS.register("coal_ore_quark_jasper", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_QUARK_LIMESTONE = BLOCKS.register("coal_ore_quark_limestone", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_QUARK_SHALE = BLOCKS.register("coal_ore_quark_shale", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_STONE = BLOCKS.register("coal_ore_stone", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_TUFF = BLOCKS.register("coal_ore_tuff", () -> new Block(OVERWORLD_ORES));
-    public static final RegistryObject<Block> COAL_ORE_DEEPSLATE = BLOCKS.register("coal_ore_deepslate", () -> new Block(OVERWORLD_ORES_HARD));
-    public static final RegistryObject<Block> COAL_ORE_BASALT = BLOCKS.register("coal_ore_basalt", () -> new Block(NETHER_ORES));
-    public static final RegistryObject<Block> COAL_ORE_BLACKSTONE = BLOCKS.register("coal_ore_blackstone", () -> new Block(NETHER_ORES));
-    public static final RegistryObject<Block> COAL_ORE_NETHERRACK = BLOCKS.register("coal_ore_netherrack", () -> new Block(NETHER_ORES));
-    public static final RegistryObject<Block> COAL_ORE_END_STONE = BLOCKS.register("coal_ore_end_stone", () -> new Block(END_ORES));
+    public static final RegistryObject<Block> COAL_ORE_ANDESITE = BLOCKS.register("coal_ore_andesite", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_CALCITE = BLOCKS.register("coal_ore_calcite", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_CREATE_LIMESTONE = BLOCKS.register("coal_ore_create_limestone", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_CREATE_SCORCHIA = BLOCKS.register("coal_ore_create_scorchia", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_CREATE_SCORIA = BLOCKS.register("coal_ore_create_scoria", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_DIORITE = BLOCKS.register("coal_ore_diorite", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_GRANITE = BLOCKS.register("coal_ore_granite", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_QUARK_JASPER = BLOCKS.register("coal_ore_quark_jasper", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_QUARK_LIMESTONE = BLOCKS.register("coal_ore_quark_limestone", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_QUARK_SHALE = BLOCKS.register("coal_ore_quark_shale", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_STONE = BLOCKS.register("coal_ore_stone", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_TUFF = BLOCKS.register("coal_ore_tuff", () -> new OreBlock(OVERWORLD_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_DEEPSLATE = BLOCKS.register("coal_ore_deepslate", () -> new OreBlock(OVERWORLD_ORES_HARD, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_BASALT = BLOCKS.register("coal_ore_basalt", () -> new OreBlock(NETHER_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_BLACKSTONE = BLOCKS.register("coal_ore_blackstone", () -> new OreBlock(NETHER_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_NETHERRACK = BLOCKS.register("coal_ore_netherrack", () -> new OreBlock(NETHER_ORES, UniformInt.of(0,2)));
+    public static final RegistryObject<Block> COAL_ORE_END_STONE = BLOCKS.register("coal_ore_end_stone", () -> new OreBlock(END_ORES, UniformInt.of(0,2)));
 
     // IRON
     public static final RegistryObject<Block> IRON_ORE_ANDESITE = BLOCKS.register("iron_ore_andesite", () -> new Block(OVERWORLD_ORES));
