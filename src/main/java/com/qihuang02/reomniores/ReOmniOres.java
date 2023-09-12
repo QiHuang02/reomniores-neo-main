@@ -5,7 +5,6 @@ import com.qihuang02.reomniores.blocks.ROOBlock;
 import com.qihuang02.reomniores.items.ROOBlockItem;
 import com.qihuang02.reomniores.items.ROOItem;
 import com.qihuang02.reomniores.tabs.ROOCreativeTab;
-import net.minecraft.client.Minecraft;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.server.ServerStartingEvent;
@@ -31,7 +30,6 @@ public class ReOmniOres {
         ROOBlockItem.ITEMS.register(modEventBus);
         ROOItem.ITEMS.register(modEventBus);
         ROOCreativeTab.register(modEventBus);
-
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
